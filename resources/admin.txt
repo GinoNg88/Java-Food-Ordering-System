@@ -1,0 +1,2 @@
+ID,name,password,email,phoneNo,usertype,gender
+AD01/gino/admin/nggino2005@gmail.com/0126388309/Admin/Male

@@ -1,0 +1,7 @@
+FoodID,FoodName,Price,Vendor,VendorID,Restaurant
+F01/Chicken/7.00/LimChicken/V01/LimChicken
+F02/Duck/10.00/KenDuck/V02/KenDuck
+F03/Chicken Rice/10.00/LimChicken/V01/LimChicken
+F04/Chicken Hor Fun/9.00/LimChicken/V01/LimChicken
+F07/yy/11/LimChicken/V01/LimChicken
+F08/ajhd/11/KenDuck/V02/KenDuck

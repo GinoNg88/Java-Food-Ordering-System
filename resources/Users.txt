@@ -1,0 +1,4 @@
+id,name,password,email,phoneNo,usertype,gender,Amount
+S01/1/a/1/1/Customer/Male/93.00
+S02/1/a/1/1/Customer/Male/9.00
+S03/1/a/1/1/Customer/Male/0

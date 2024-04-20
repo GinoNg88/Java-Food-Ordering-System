@@ -1,0 +1,3 @@
+id,name,password,email,phoneNo,usertype,gender
+V01/LimChicken/vendor/nggino2005@gmail.com/0126388309/Vendor/Male
+V02/KenDuck/aa/aa/aa/Vendor/Male

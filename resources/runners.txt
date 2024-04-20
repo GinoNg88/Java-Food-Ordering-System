@@ -1,0 +1,3 @@
+id,name,password,email,phoneNo,usertype,gender
+D01/James/aa/nggino2005@gmail.com/0126388309/Runner/Male
+D02/cc/cc/cc/cc/Runner/Male

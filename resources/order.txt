@@ -1,0 +1,24 @@
+OrderID,Date,FoodName,Quantity,PricePaid,Vendor,VendorID,CustomerID,Status,Type,Destination,DmID,Restaurant,Review
+O01/12-02-2022/Chicken/1/7.00/LimChicken/V01/S01/completed/pickup/APU/none/LimChicken/none
+O02/22-02-2022/Duck/1/10.00/KenDuck/V02/S01/ready/pickup/APU/none/KenDuck/none
+O03/31-03-2022/Chicken/2/14.00/LimChicken/V01/S01/completed/pickup/APU/none/LimChicken/amazing food nigga
+O04/31-03-2022/Chicken/2/14.00/LimChicken/V01/S02/completed/pickup/APU/none/LimChicken/Nice Food
+O05/05-04-2022/Chicken/2/14.00/LimChicken/V01/S02/canceled/dinein/APU/none/LimChicken/none
+O06/05-04-2022/Chicken/2/14.00/LimChicken/V01/S02/ready/dinein/APU/none/LimChicken/none
+O07/06-05-2022/Duck/1/10.00/KenDuck/V02/S02/completed/dinein/APU/none/KenDuck/none
+O08/06-05-2022/Duck/1/10.00/KenDuck/V02/S03/completed/dinein/APU/none/KenDuck/Fast Serve
+O09/06-05-2022/Duck/1/10.00/KenDuck/V02/S03/canceled/delivery unassigned/APU/none/KenDuck/none
+O10/07-06-2022/Chicken/2/14.00/LimChicken/V01/S03/ready/delivery unassigned/APU/D01/LimChicken/none
+O11/07-06-2022/Chicken/2/14.00/LimChicken/V01/S03/ready/delivery unassigned/APU/D01/LimChicken/none
+O12/07-06-2022/Chicken/2/14.00/LimChicken/V01/S03/completed/delivery assigned/APU/D01/LimChicken/none
+O13/07-06-2022/Chicken/2/14.00/LimChicken/V01/S03/completed/delivery assigned/APU/D02/LimChicken/none
+O14/07-06-2022/Chicken/2/14.00/LimChicken/V01/S03/completed/delivery assigned/APU/D01/LimChicken/Cheap Price
+O15/08-09-2022/Chicken/1/7.00/LimChicken/V01/S01/completed/delivery assigned/APU/D02/LimChicken/yes
+O16/08-09-2022/Chicken/1/7.00/LimChicken/V01/S02/pending/pickup/APU/none/LimChicken/none
+O17/18-04-2024/Chicken/1/7.00/LimChicken/V01/S01/pending/pickup/APU/none/LimChicken/none
+O18/18-04-2024/Duck/1/10.00/KenDuck/V02/S01/ready/pickup/none/none/KenDuck/none
+O19/18-04-2024/yy/2/24.00/LimChicken/V01/S01/pending/pickup/none/none/LimChicken/none
+O20/20-04-2024/Chicken/1/7.00/LimChicken/V01/S01/pending/delivery assigned/APU/none/LimChicken/none
+O21/20-04-2024/ajhd/1/16.00/KenDuck/V02/S02/completed/delivery assigned/where/D02/KenDuck/yes
+O22/20-04-2024/Chicken/2/14.00/LimChicken/V01/S02/ready/pickup/APU/none/LimChicken/none
+O23/20-04-2024/yy/1/16.00/LimChicken/V01/S02/ready/pickup/where/none/LimChicken/none
